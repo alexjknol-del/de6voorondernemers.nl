@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="De 6 voor Ondernemers">
+  <rect width="48" height="48" rx="11" fill="#1F2A38"/>
+  <circle cx="15" cy="15" r="4" fill="#E1653D"/><circle cx="24" cy="15" r="4" fill="#E7EAEE"/><circle cx="33" cy="15" r="4" fill="#E7EAEE"/>
+  <circle cx="15" cy="24" r="4" fill="#E7EAEE"/><circle cx="24" cy="24" r="4" fill="#E1653D"/><circle cx="33" cy="24" r="4" fill="#E7EAEE"/>
+  <path d="M12 33h24" stroke="#E1653D" stroke-width="3" stroke-linecap="round"/>
+  <path d="M16 38h16" stroke="#E7EAEE" stroke-width="3" stroke-linecap="round"/>
+</svg>
