@@ -139,7 +139,7 @@ BEDRIJVEN=[
 ("Zakelijke portretten op maat","Naast bedrijfsreportages levert Rogier Chang zakelijke portretten die aansluiten bij de uitstraling van een bedrijf, geschikt voor LinkedIn, een website of drukwerk. Hij fotografeert al meer dan twintig jaar bedrijven in uiteenlopende sectoren.")],
 "punten":["Meer dan twintig jaar ervaring","Bedrijfsreportages en zakelijke portretten","Werkzaam vanuit Den Haag","Geschikt voor zzp'ers tot grote organisaties"],
 "contact":{"adres":"Westeinde 81, Den Haag","telefoon":"06 50 222 760","email":"studio@bedrijfsfotografie.nl"},
-"url":"https://www.bedrijfsfotografie.nl/bedrijfsfotograaf-rotterdam/","linktekst":"Bedrijfsfotografie.nl"},
+"url":"https://www.bedrijfsfotografie.nl/bedrijfsfotograaf-den-haag/","linktekst":"Bedrijfsfotografie.nl"},
 {"slug":"cloud-opslag-provider","naam":"DataOpslagNederland","dienst":"Data-opslag en back-up","plaats":"Nederlandse servers",
 "resume":"Zakelijke clouddiensten op Nederlandse servers, met Nederlandstalige telefonische support.",
 "specs":[("Categorie","Data-opslag en back-up"),("Locatie","Nederlandse servers"),("Telefoon","085-222 03 00")],
