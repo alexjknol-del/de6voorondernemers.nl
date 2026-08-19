@@ -445,7 +445,7 @@ def p_partners():
 </div></section>"""
     write(path,h+footer())
 
-<div class="card"><h3>Stofzakkie</h3><p>Stofzakkie is een webshop voor stofzuigerzakken en stofzuigeraccessoires, geschikt voor uiteenlopende merken en typen stofzuigers.</p><p style="margin-top:10px"><a href="https://www.stofzakkie.nl/" target="_blank" rel="noopener">Stofzakkie</a></p></div>
+
 def p_contact():
     path="/contact/"; c=[("Home","/"),("Contact",path)]
     ld=[crumb(c),{"@context":"https://schema.org","@type":"ContactPage","@id":BASE+path,"url":BASE+path,"name":"Contact","inLanguage":"nl-NL"}]
