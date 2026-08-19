@@ -213,6 +213,27 @@ GIDSEN=[
 ]
 
 ARTIKELEN=[
+ {"slug":'webshop-verkopen-voorbereiding','titel':'Een webshop verkopen: wat een koper als eerste opvraagt',"cat":'Ondernemen',"datum":'2026-08-19',"datum_nl":'19 augustus 2026','lees':5,
+  'resume':'De waarde van een webshop wordt bepaald door wat aantoonbaar is, niet door wat er wordt verteld.',
+  "body":[
+  ('p', 'Bij de verkoop van een webshop struikelt het proces zelden op de prijs. Het struikelt op de vraag of de cijfers die op tafel liggen te controleren zijn.'),
+  ('h2', 'Wat een koper opvraagt'),
+  ('ul', ['Omzet en marge per maand over minimaal twee jaar.', 'De verdeling van de omzet over verkeerbronnen.', 'Het aandeel van de grootste leverancier en de grootste productgroep.', 'Terugkerende kosten: abonnementen, hosting, marketing, opslag.']),
+  ('p', 'Vooral het derde punt bepaalt de uiteindelijke waardering. Een webshop waarvan zestig procent van de omzet uit één productgroep bij één leverancier komt, is kwetsbaarder dan dezelfde omzet uit een gespreid assortiment.'),
+  ('h2', 'Afhankelijkheid van de eigenaar'),
+  ('p', 'De tweede vraag die altijd komt, is hoeveel uur de eigenaar er per week in steekt en wat er gebeurt als die wegvalt. Een shop waarin de eigenaar zelf inkoopt, de klantenservice doet en de campagnes beheert, verkoopt lastiger dan een shop met vastgelegde processen.'),
+  ('plink', 'Vastleggen hoe het werk gebeurt, is daarmee een concrete voorbereiding op verkoop. Een handleiding van tien pagina\'s die een opvolger op weg helpt, telt zwaarder dan de meeste verkopers verwachten. Hoe die factoren in een waardebepaling doorwerken staat bij <a href="https://www.webshopovername.nl/kennisbank/webshop-waarde-bepalen" rel="nofollow">Webshopovername</a>.'),
+  ('h2', 'Het juiste moment'),
+  ('p', 'Verkopen na een dalend jaar kost onvermijdelijk waarde, omdat een koper de trend doortrekt. Verkopen op het hoogtepunt van een tijdelijke hype is evenmin verstandig, omdat de koper dat doorziet en de onderbouwing dan onder druk komt.'),
+  ('plink', 'Het gunstigste moment is doorgaans na twee stabiele of licht stijgende jaren, met een assortiment dat niet aan één trend hangt. Wie wil zien wat er op dit moment wordt aangeboden en tegen welke vraagprijs, vindt dat op <a href="https://www.webshopovername.nl/bedrijven-te-koop" rel="nofollow">webshopovername.nl</a>.'),
+  ('h2', 'Voorbereiding in de praktijk'),
+  ('p', 'Scheid privé en zakelijk in de administratie voordat de verkoop start. Kosten die deels privé zijn geboekt, maken elke marge discutabel en kosten in de onderhandeling meer dan ze ooit hebben opgeleverd.'),
+  ('p', 'Zorg daarnaast dat domeinnaam, hosting, socialemedia-accounts en het merk op naam van de onderneming staan en niet op naam van een persoon of een oud-medewerker. Dat is de kleinste stap in het traject en tegelijk de meest voorkomende vertraging bij de overdracht.'),
+  ('h2', 'De rol van een tussenpersoon'),
+  ('p', 'Een verkoper die zelf een koper zoekt, komt vrijwel altijd uit bij zijn eigen netwerk en daarmee bij een beperkt aantal kandidaten. Dat drukt de prijs, simpelweg omdat er geen alternatief op tafel ligt om mee te vergelijken.'),
+  ('p', 'Een platform of adviseur die meerdere kandidaten aandraagt, verandert die verhouding. Het kost een percentage en levert in de meeste trajecten meer op dan het kost, vooral wanneer de shop in een niche zit waarin de kopers niet vanzelf te vinden zijn.'),
+  ("p", DISC),
+ ]},
 {"slug":"fysiotherapie-maastricht-eerste-afspraak","titel":"Fysiotherapie in Maastricht: wat te weten is voor een eerste afspraak","cat":"Gezondheid","datum":"2026-08-12","datum_nl":"12 augustus 2026","lees":3,
 "resume":"Wachten tot een klacht vanzelf overgaat werkt zelden; een gerichte eerste afspraak legt de basis voor een structurele aanpak.",
 "body":[("p","Ondernemers zijn gewend om door te zetten. Deadlines, vergaderingen en lange werkdagen achter een scherm vragen veel van het lichaam, dat zich aanpast totdat het dat niet meer doet. Een hardnekkige nekklacht, een schouder die niet meer soepel beweegt of rugpijn die de concentratie breekt, zijn signalen die niet genegeerd kunnen blijven. Fysiotherapie is dan geen luxe, maar een praktische stap."),
