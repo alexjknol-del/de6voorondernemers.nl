@@ -463,6 +463,7 @@ def p_partners():
 <div class="card"><h3>Van der Zwaard</h3><p>Van der Zwaard is een accountants- en belastingadvieskantoor in Den Haag, met dienstverlening voor ondernemers op het gebied van boekhouding, administratie en belastingadvies.</p><p style="margin-top:10px"><a href="https://www.vanderzwaard.nl/diensten/belastingadvies/" target="_blank" rel="noopener">belastingconsulent den haag</a></p></div>
 <div class="card"><h3>DLSA Letselschade Advocaten</h3><p>DLSA is gespecialiseerd in letselschade, onder meer voor (oud-)militairen met gezondheidsklachten door chroom-6 of PTSS, en begeleidt schadeclaims tegen Defensie.</p><p style="margin-top:10px"><a href="https://dlsa.nl/ptss-veteranen/" target="_blank" rel="noopener">veteranen met ptss</a></p></div>
 <div class="card"><h3>Stofzakkie</h3><p>Stofzakkie is een webshop voor stofzuigerzakken en stofzuigeraccessoires, geschikt voor uiteenlopende merken en typen stofzuigers.</p><p style="margin-top:10px"><a href="https://www.stofzakkie.nl/" target="_blank" rel="noopener">Stofzakkie</a></p></div>
+<div class="card"><h3>CF Kunststofprofielen</h3><p>CF Kunststofprofielen levert kunststof profielen voor diverse toepassingen, waaronder kamerprofielen voor het afwerken van wanden en plafonds.</p><p style="margin-top:10px"><a href="https://www.cf-kunststofprofielen.nl/profielen/kamerprofielen" target="_blank" rel="noopener">kamerprofiel</a></p></div>
 </div>
 </div></section>"""
     write(path,h+footer())
