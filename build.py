@@ -213,6 +213,24 @@ GIDSEN=[
 ]
 
 ARTIKELEN=[
+{"slug":"buitenkant-pand-jarenlang-mooi","titel":"Zo houd je de buitenkant van je pand jarenlang mooi","cat":"Ondernemen","datum":"2026-09-03","datum_nl":"3 september 2026","lees":4,
+"resume":"Een schone gevel houdt je pand jaren jonger. Ontdek vijf praktische manieren om groene aanslag voor te blijven en je buitenkant strak te houden.",
+"body":[
+("p","Een gevel vertelt vaak meer over een pand dan de voordeur ooit zal doen. Toch kijken de meeste mensen er pas echt naar als de groene waas al goed zichtbaar is. En dat gaat sneller dan je denkt, want op een noordmuur vormt zich in \u00e9\u00e9n vochtig seizoen al een dunne laag algen. Met een paar slimme gewoontes houd je die aanslag voor en blijft je buitenkant jarenlang strak."),
+("h2","Pak groene aanslag aan voordat die zich vastzet"),
+("plink","Hoe eerder je ingrijpt, hoe lichter het werk. Een dunne, verse laag algen spoel je er zo af, maar laat je mos maanden staan, dan grijpt het zich vast in de voegen en houdt het vocht tegen de steen aan. Wacht dus niet tot de hele muur groen ziet, maar reageer bij de eerste waas onderaan de gevel. Voor een grondige beurt kun je je <a href=\"https://www.actief-cleaningservices.nl/schoonmaakonderhoud/gevelreiniging/breda/\" target=\"_blank\" rel=\"noopener\">gevel laten reinigen in Breda of omgeving</a> door een specialist die de aanslag tot in de voeg weghaalt in plaats van alleen de bovenlaag. Zo begin je meteen met een schone basis."),
+("h2","Kies een reinigingsmethode die bij je steen past"),
+("p","De juiste techniek voorkomt dat je meer kapotmaakt dan je schoonmaakt. Hogedrukreiniging werkt snel tegen mos en algen, maar bij zachte baksteen of oude voegen kan te veel druk steen en specie wegslaan. Voor kwetsbaar metselwerk is stoomreiniging op lage druk veiliger, omdat de hitte van rond de honderdvijftig graden de sporen doodt zonder het oppervlak te forceren. Zit er ingevreten roet of graffiti op, dan is een speciale reiniger nodig die de vuillaag eerst losweekt. Laat altijd een klein proefvlak behandelen, zodat je ziet wat een methode met jouw gevel doet voordat de hele muur aan de beurt komt."),
+("h2","Bescherm de gevel met een impregneerlaag"),
+("plink","Na het reinigen is het moment om terugkeer van de aanslag af te remmen. Door de gevel te impregneren met een waterafstotend middel dringt regen minder diep in de steen en krijgen algen en mos veel minder houvast. Zo\u2019n laag laat de muur gewoon ademen, dus vocht van binnenuit kan nog steeds ontsnappen. Een professionele reiniging door <a href=\"https://www.actief-cleaningservices.nl/\" target=\"_blank\" rel=\"noopener\">Actief Cleaning Services</a> wordt vaak in \u00e9\u00e9n traject gecombineerd met zo\u2019n beschermlaag, waardoor het resultaat jaren langer meegaat dan bij een kale beurt. Reken op een bescherming die je vijf tot tien jaar rust geeft."),
+("h2","Houd de gevel droog en vrij van begroeiing"),
+("p","Vocht is de motor achter bijna alle aanslag, dus alles wat de muur droog houdt, werkt in je voordeel. Controleer of de dakgoot en regenpijpen niet lekken, want een natte streep onder een verstopte goot is een broedplaats voor algen. Snoei overhangende takken en klimop terug, zodat er meer zon en wind bij de gevel komen en die na een bui sneller opdroogt. Zorg ook dat opspattend water en bladeren zich niet onderaan de muur ophopen. Deze kleine ingrepen kosten weinig, maar ze rekken de tijd tussen twee reinigingsbeurten flink op."),
+("h2","Stem het onderhoud af op de ligging en het seizoen"),
+("p","Niet elke gevel vraagt hetzelfde ritme, dus kijk naar de plek voordat je een planning maakt. Een muur op het noorden of vlak bij bomen blijft langer nat en vraagt vaker aandacht dan een zonnige voorkant. Voor de meeste panden is een controle om de twee tot vijf jaar genoeg om de aanslag de baas te blijven. Loop in het najaar even langs de gevel als de bladeren vallen en het vaker regent, want juist dan zet nieuwe aanslag zich vast. Zo grijp je in op het moment dat het echt telt en niet pas als de schade zichtbaar is."),
+("h2","Klaar voor een gevel die jaren mooi blijft?"),
+("p","Met vroeg ingrijpen, de juiste methode, een beschermlaag en wat aandacht voor droogte houd je de buitenkant van je pand jarenlang representatief. Wil je weten wat er voor jouw gevel nodig is zonder je er zelf in te verdiepen? Vraag vrijblijvend een offerte aan en laat een vakman meekijken naar de beste aanpak."),
+]},
+
  {"slug":'webshop-verkopen-voorbereiding','titel':'Een webshop verkopen: wat een koper als eerste opvraagt',"cat":'Ondernemen',"datum":'2026-08-19',"datum_nl":'19 augustus 2026','lees':5,
   'resume':'De waarde van een webshop wordt bepaald door wat aantoonbaar is, niet door wat er wordt verteld.',
   "body":[
