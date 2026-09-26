@@ -690,6 +690,7 @@ def p_partners():
 <div class="card"><h3>Crosscare+</h3><p>Crosscare+ maakt automatische desinfectiesystemen voor melkrobots, die het desinfectiemiddel op de boerderij zelf aanmaken en zo bacteriedruk en mastitis in de veestapel terugdringen.</p><p style="margin-top:10px"><a href="https://crosscareplus.nl/" target="_blank" rel="noopener">Slimme robotdesinfectie</a></p></div>
 <div class="card"><h3>Eijgen Finance</h3><p>Eijgen Finance is een onafhankelijke financieringsspecialist voor het midden- en kleinbedrijf, met adviseurs door heel Nederland en dienstverlening rond bedrijfsfinanciering, vastgoedfinanciering en bedrijfsovername.</p><p style="margin-top:10px"><a href="https://www.eijgenfinance.nl/bedrijfsfinanciering/voorraadfinanciering/" target="_blank" rel="noopener">Voorraadfinanciering via Eijgen Finance</a></p></div>
 <div class="card"><h3>ICM</h3><p>ICM biedt ruim 250 opleidingen en trainingen voor professionals en ontwikkelt leeroplossingen op maat voor organisaties.</p><p style="margin-top:10px"><a href="https://www.icm.nl/" target="_blank" rel="noopener">ICM opleidingen &amp; trainingen</a></p></div>
+<div class="card"><h3>Digital Outsourcing</h3><p>Digital Outsourcing is een online marketingbureau dat onder meer SEO-audits uitvoert, met aandacht voor technische, inhoudelijke en strategische verbeterpunten.</p><p style="margin-top:10px"><a href="https://digitaloutsourcing.nl/seo-audit/" target="_blank" rel="noopener">Digital Outsourcing</a></p></div>
 </div>
 </div></section>"""
     write(path,h+footer())
