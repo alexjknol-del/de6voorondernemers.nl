@@ -710,6 +710,8 @@ def p_partners():
 <div class="card"><h3>Learncare</h3><p>Learncare biedt opleidingen, waaronder de opleiding tot bewindvoerder over financiën, toeslagen en schulden.</p><p style="margin-top:10px"><a href="https://learncare.nl/opleidingen/bewindvoerder" target="_blank" rel="noopener">opleiding bewindvoerder</a></p></div>
 <div class="card"><h3>CS Opleidingen</h3><p>CS Opleidingen verzorgt opleidingen rond verzuimbegeleiding, waaronder de basisopleiding casemanager.</p><p style="margin-top:10px"><a href="https://cs-opleidingen.nl/opleidingen/basis-opleiding-casemanager" target="_blank" rel="noopener">opleiding casemanager</a></p></div>
 <div class="card"><h3>IXON</h3><p>IXON levert een beveiligd remote access cloudplatform waarmee machinebouwers hun machines op afstand bewaken en beheren.</p><p style="margin-top:10px"><a href="https://www.ixon.cloud/nl/iiot-platform/industriele-toegang-op-afstand" target="_blank" rel="noopener">Remote access cloud</a></p></div>
+<div class="card"><h3>Striive</h3><p>Striive is een platform waar zzp&#x27;ers en interim professionals opdrachten van organisaties vinden, van ICT tot finance.</p><p style="margin-top:10px"><a href="https://striive.com/nl/zzp/opdrachten" target="_blank" rel="noopener">Opdrachten voor ZZP</a></p></div>
+<div class="card"><h3>Verhuisbedrijf Snelle Jongens</h3><p>Verhuisbedrijf Snelle Jongens verzorgt particuliere en zakelijke verhuizingen, met een vestiging in Leiden.</p><p style="margin-top:10px"><a href="https://verhuisbedrijfsnellejongens.nl/verhuisbedrijf-leiden" target="_blank" rel="noopener">Verhuisbedrijf Snelle Jongens in Leiden</a></p></div>
 </div>
 </div></section>"""
     write(path,h+footer())
